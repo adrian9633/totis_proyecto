@@ -1,0 +1,112 @@
+    1  ls
+    2  ls -a
+    3  ls..
+    4  ls.
+    5  ls ..
+    6  ls .
+    7  pwd
+    8  cd
+    9  ls
+   10  cd Desktop
+   11  cd Desktop/
+   12  ls
+   13  cd Music/
+   14  ls ..
+   15  ls .
+   16  clear
+   17  cd
+   18  cd Music/
+   19  cd
+   20  clear
+   21  pwd
+   22  cd
+   23  cd ~
+   24  clear
+   25  cd Desktop/
+   26  mkdir Comandos
+   27  ls
+   28  cd Comandos/
+   29  mkdir pasta nueva
+   30  ls
+   31  mkdir 'pasta nova'
+   32  ls
+   33  makdir -p new/old
+   34  mkdir -p new/old
+   35  ls
+   36  cd new/
+   37  ls
+   38  cd Comandos/
+   39  cdcd
+   40  ls Comandos
+   41  ls Comandos/
+   42  cd Comandos/
+   43  Comandos
+   44  ls .
+   45  ls
+   46  ls ..
+   47  cd
+   48  cd Desktop
+   49  cd Comandos
+   50  ls
+   51  echo 'mensagem'
+   52  echo 'menssagem' > comando.xtx
+   53  cat comando.xtx
+   54  cat > comand.xtx
+   55  cat
+   56  ls
+   57  cat
+   58  ls
+   59  cd Documents/
+   60  ls
+   61  cd ..
+   62  ls
+   63  Downloas/
+   64  cd Downdloas/
+   65  cd 
+   66  cd Downloads/
+   67  ls
+   68  cd Totis/
+   69  ls
+   70  cd Toti/
+   71  git init
+   72  git config
+   73  git config --global --list
+   74  git config --global user.email 'adrian9633benitez@gmail.com'
+   75  git config --global --list
+   76  git init
+   77  git status
+   78  git add
+   79  git status
+   80  cd Totitest
+   81  mkdir 'totis_proyecto'
+   82  cd totis_proyecto/
+   83  git init
+   84  ls
+   85  ls
+   86  ls -b
+   87  ls-a
+   88  ls -a
+   89  git status
+   90  echo '#aprendiendo usar Git' > readme.md
+   91  git status 
+   92  git add readme.md
+   93  git status
+   94  git commit -m 'Commit inicial'
+   95  git status
+   96   echo '##Aula 1' >> readme.md
+   97  git status
+   98  echo 'adrian benitez' > participantes.txt
+   99  git status
+  100  git add.
+  101  git add .
+  102  git status
+  103  git restore --staged .
+  104  git status
+  105  git commit -am 'alteración no readme'
+  106  git status
+  107  git add participantes.txt 
+  108  git status
+  109  git commit -m 'adicionando participantes.txt'
+  110  git status
+  111  history
+  112  history > Aula_3.txt
